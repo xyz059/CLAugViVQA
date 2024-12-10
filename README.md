@@ -1,4 +1,4 @@
-# Visual Question Answering Research
+# Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations
 
 ## Description
 
