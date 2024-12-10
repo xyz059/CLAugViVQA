@@ -36,7 +36,7 @@ python download.py
 
 ## How to Run
 
-###Using start_training.sh
+### Using bash script
 
 To simplify training, please execute the training script using the provided ```start_training.sh``` file:
 
